@@ -1,3 +1,3 @@
 # gitskills
 this rep is created to test remote to local
-Creating a new branch is quick
+Creating a new branch is quick and simple
